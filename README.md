@@ -1,3 +1,5 @@
+Note: This project focuses on handling real-world messy and skewed data rather than ideal datasets.
+
 # Sales-Analyzer
 
 This project analyzes an Adidas sales dataset to explore sales performance across different cities, 
